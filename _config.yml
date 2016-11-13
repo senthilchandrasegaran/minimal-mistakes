@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Senthil Chandrasegaran"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Senthil Chandrasegaran"
+description              : "Profile, projects, and publications"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Senthil Chandrasegaran"
+  avatar           : "/assets/images/profile_small.jpg"
+  bio              : "I am a postdoctoral scholar in the College of Information Studies at the University of Maryland, College Park, where I work with my PI, Prof. Niklas Elmqvist. I received my Ph.D. in Mechanical Engineering in 2016 from Purdue University, West Lafayette, where I worked with Prof.Karthik Ramani at the C Design Lab. My research focuses on the integration of computer support tools to aid collaboration in early design, and the use of visualization and visual analytics techniques to understand how designers collaborate.
+In a past life before graduate school, I've also worked in the engineering industry in India. I've worked in areas including automotive interior design, structural analysis in the automotive and heavy engineering sectors, and knowledge-based engineering in the heavy engineering sector."
+  location         : "Menlo Park, CA"
+  email            : "senthil [dot] kumaran [at] gmail"
   uri              :
   bitbucket        :
   codepen          :
@@ -244,3 +245,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Additions based on the github configuration instructions
+theme: minimal-mistakes-jekyll
