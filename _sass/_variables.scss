@@ -14,12 +14,12 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Roboto", Arial, sans-serif;
+$sans-serif                 : "Roboto", sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Roboto", Arial, sans-serif;
+$sans-serif-narrow          : "Roboto Conedensed";
+$helvetica                  : Helvetica, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
