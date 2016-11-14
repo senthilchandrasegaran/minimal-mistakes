@@ -81,7 +81,8 @@ analytics:
 author:
   name             : "Senthil Chandrasegaran"
   avatar           : "/assets/images/profile_small.jpg"
-  bio              : "Postdoctoral Scholar\nHuman-Computer Interaction Lab\nUniversity of Maryland\nCollege Park, MD"
+  bio              : 
+    - "Postdoctoral Scholar<br>Human-Computer Interaction Lab<br>University of Maryland<br>College Park, MD"
   # location         : ""
   # email            : ""
   uri              :
