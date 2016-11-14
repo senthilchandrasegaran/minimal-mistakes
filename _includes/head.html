@@ -1,9 +1,5 @@
 <meta charset="utf-8">
 
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700"
-rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
-
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
