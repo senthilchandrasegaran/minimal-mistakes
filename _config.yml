@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Senthil Chandrasegaran"
   avatar           : "/assets/images/profile_small.jpg"
-  bio              : "Postdoctoral Scholar\nUniversity of Maryland\nCollege Park, MD"
+  bio              : "Postdoctoral Scholar\nHuman-Computer Interaction Lab\nUniversity of Maryland\nCollege Park, MD"
   # location         : ""
   # email            : ""
   uri              :
@@ -91,12 +91,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "senthilchandrasegaran"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  # linkedin         : ""
+  linkedin         : "schandrasegaran"
   # google_scholar   : "citations?user=mq_lBSQAAAAJ"
   pinterest        :
   soundcloud       :
