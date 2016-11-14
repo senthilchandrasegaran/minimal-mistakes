@@ -81,8 +81,11 @@ analytics:
 author:
   name             : "Senthil Chandrasegaran"
   avatar           : "/assets/images/profile_small.jpg"
-  bio              : 
-    - "Postdoctoral Scholar<br>Human-Computer Interaction Lab<br>University of Maryland<br>College Park, MD"
+  bio              : |
+    Postdoctoral Scholar<br>
+    HCI Lab<br>
+    University of Maryland<br>
+    College Park, MD
   # location         : ""
   # email            : ""
   uri              :
@@ -98,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "schandrasegaran"
-  # google_scholar   : "citations?user=mq_lBSQAAAAJ"
+  scholar          : "citations?user=mq_lBSQAAAAJ"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -115,6 +118,10 @@ author:
 include:
   - .htaccess
   - _pages
+  - assets/css/academicons.css
+  - assets/fonts/academicons.eot
+  - assets/fonts/academicons.svg
+  - assets/fonts/academicons.ttf
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
